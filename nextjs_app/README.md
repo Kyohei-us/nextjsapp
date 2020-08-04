@@ -1,4 +1,4 @@
-# Foobar
+# My App (There is no name yet)
 
 This app is made based on an example Next.js app.
 It includes some functions that I made.
